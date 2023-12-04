@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const config = {
+    domain: 'imranmmnv',
+    auth: {
+        client_id: '4e3b4af5-5957-42ea-90a9-a7bb6fec43bd',
+        client_secret: 'mpnzMFVVUp6pmZsjS7wC1JpHAt49gneyGCVNBZEMFvZBRrkdS4TxaenDjDf4bL22',
+        redirect_uri: 'https://localhost',
+        code: 'def50200df2bb02761b2a5ed27ce7b5bb323e97e287366edb4eb27152817bc83d8359f9ce7c2106ab2961cb2a029714494e3166ff704a553d733e8a62069180b46ea55809736a98f4801c38070b750aade6ea7a50c7b04022bfe0fcd68a96a461a2a81111b693a7807196161c0f9c661f975179b042a4fb3f5555d76c13e1370c3e22838b288003c9c9716243d8597ae098d7c6dc3ad963bb45fcab5efd51acbf91921a43031d2ba278f02d03d110f0504cd4d41ab68208be12eb610fc0de288ffdf84986442ee2572076a2da2e521b4404282f7c5160ce28998dab129de484f3d7ae0c8adba358b3da66a881cd4c289f58f88faab3f0f9f4e7b88674c11697931547e9ab08ffcd9976248620b8e69d6f1dc14082a6535aeb89dcf49621a2970fa861745e7c0644c3822c280ee457f4cf635e445143e1cf9824de4349d5cffb7ee6a374b697c4411e850a3727c1c9f72b35d68deb4e3b0c9b7d4ce3309b295f3b02aa7900d566efbcdb27d5302b52bed3d9dadc55d3cc653f04b6a541a70ed7a86ef2e9edb549a74a506659f5e309ee9952c8ea991988d205f7d629af16985b06fde32722cbea5d126f112a3d3f4b84d936beeb9b25167385b3e0492d63af566311e77a8a04fe192e50813c80a1bcfd9dde748a360806ec223e6d947794dd6dab3ce' // Assuming this is intentionally left as a space
+    }
+};
+exports.default = config;
+//# sourceMappingURL=config.js.map

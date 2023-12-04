@@ -1,0 +1,1 @@
+{"version":3,"file":"config.js","sourceRoot":"","sources":["../../../src/modules/token-restore/config.ts"],"names":[],"mappings":";;AAYA,MAAM,MAAM,GAAc;IACtB,MAAM,EAAE,WAAW;IACnB,IAAI,EAAE;QACF,SAAS,EAAE,sCAAsC;QACjD,aAAa,EAAE,kEAAkE;QACjF,YAAY,EAAE,mBAAmB;KACpC;CACJ,CAAC;AAEF,kBAAe,MAAM,CAAC"}
